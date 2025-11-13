@@ -230,4 +230,4 @@ MIT
 
 ## 👨‍💻 Tác giả
 
-huycq.22it@vku.udn.vn
+huycq.22it@vku.udn.vn - Châu Quang Huy - 22IT108 - 22SE1 - Đề 3
